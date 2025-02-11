@@ -1,0 +1,1 @@
+Jenkins実験用のGradleプロジェクト
